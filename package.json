@@ -8,11 +8,26 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "**Overview**",
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
     "jest": "^29.7.0"
   },
   "dependencies": {
     "datejs": "^1.0.0-rc3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liza4231/js-analyzing-data-modules-syntax-lab.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/liza4231/js-analyzing-data-modules-syntax-lab/issues"
+  },
+  "homepage": "https://github.com/liza4231/js-analyzing-data-modules-syntax-lab#readme"
 }
